@@ -18,10 +18,6 @@ public class Greeter {
 	  String.format("Hello, %s!", someone);
 	  String.format("Hello, %s!", someone);
 	  String.format("Hello, %s!", someone);
-	  String.format("Hello, %s!", someone);
-	  String.format("Hello, %s!", someone);
-	  String.format("Hello, %s!", someone);
-	  String.format("Hello, %s!", someone);
 	  
 	  
 	  return String.format("Hello, %s!", someone);
